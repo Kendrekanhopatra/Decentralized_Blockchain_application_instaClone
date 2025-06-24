@@ -1,17 +1,17 @@
 export const data = {
     stories: [
         {
-            username: 'cleverqazi',
+            username: 'Shubham',
             image:
-                'https://pbs.twimg.com/profile_images/1492902736592969732/asuDqTgR_400x400.jpg',
+                'https://res.cloudinary.com/dhhsifapi/image/upload/v1677931873/dp_zgsiiq.png',
         },
         {
-            username: 'cp',
+            username: 'apurva',
             image:
-                'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png',
+                'https://res.cloudinary.com/dhhsifapi/image/upload/v1669986800/cld-sample.jpg',
         },
         {
-            username: 'zuck',
+            username: 'tanuja',
             image:
                 'https://i.insider.com/6329911dedbe7f00190ef740?width=1136&format=jpeg',
         },
@@ -33,19 +33,19 @@ export const data = {
     ],
     suggestions: [
         {
-            username: 'cleverqazi',
+            username: 'shubham.reddy',
             image:
-                'https://pbs.twimg.com/profile_images/1492902736592969732/asuDqTgR_400x400.jpg',
+                'https://res.cloudinary.com/dhhsifapi/image/upload/v1677931873/dp_zgsiiq.png',
             text: 'Followed by testuser + 16 more',
         },
         {
-            username: 'cleverprogrammer',
+            username: 'tanuja',
             image:
-                'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png',
+                'https://res.cloudinary.com/dhhsifapi/image/upload/v1669986800/cld-sample.jpg',
             text: 'Followed by cleverqazi + 22 more',
         },
         {
-            username: 'zuck',
+            username: 'apurva',
             image:
                 'https://i.insider.com/6329911dedbe7f00190ef740?width=1136&format=jpeg',
             text: 'Followed by cleverqazi + 2 more',

@@ -18,9 +18,17 @@ const nextConfig = {
       'cdn.discordapp.com',
       'images.unsplash.com',
       'i.ytimg.com',
-      'miro.medium.com'
+      'miro.medium.com',
+      'cloudinary.com',
+      'https://cloudinary.com/',
+      'res.cloudinary.com',
+      'th.bing.com',
+      'unsplash.com',
+      'compote.slate.com',
+'www.galvanizeaction.org'
     ],
   },
 }
+
 
 module.exports = nextConfig
